@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding: 0;
+}
+h1 {
+    color:navy;
+}
+.green{
+    color:green;
+}
+#siteHeader{
+    color:yellow;
+}
+
+[src]{
+    color: magenta;
+}
+p:hover{
+    color:brown;
+}
+a:visited {
+    color:purple;
+}
+a:hover{
+    color: green;
+}
+a:focus{
+    color: black;
+}
+div.cartoon{
+    background-color: aliceblue;
+}
+ul li{
+    color: gold;
+}
+.fun, .cartoon{
+    color: pink;
+}

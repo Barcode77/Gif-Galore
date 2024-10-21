@@ -16,7 +16,7 @@ h1 {
     color: magenta;
 }
 p:hover{
-    color:brown;
+    color:rgb(138, 165, 42);
 }
 a:visited {
     color:purple;
@@ -36,3 +36,5 @@ ul li{
 .fun, .cartoon{
     color: pink;
 }
+p{
+    font-family:Helvetica}

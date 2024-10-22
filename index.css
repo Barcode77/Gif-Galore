@@ -3,7 +3,10 @@
     padding: 0;
 }
 h1 {
-    color:navy;
+    color:navy !important;
+    opacity: 1;
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.0pczvnNtRr3jliDiiYFEeQHaFn%26pid%3DApi&f=1&ipt=dd93cb0144a84ec52d0ea0f097b1c09c833e151275726fafd0566bdae64af21f&ipo=images");
+
 }
 .green{
     color:green;
@@ -37,4 +40,10 @@ ul li{
     color: pink;
 }
 p{
-    font-family:Helvetica}
+    font-family:Helvetica;
+    font-size: 20px;
+    font-weight: bold;
+        background-color: red;
+
+    text-align: right;
+}
